@@ -6,5 +6,5 @@ gem 'jekyll-sass-converter'
 # gem "rails"
 gem "github-pages", "~> 228"
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed", "~> 0.15.1"
 end
